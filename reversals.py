@@ -8,6 +8,7 @@
 #############################################################################
 
 # A simple reverse cipher.
+# Simpler ways I could have used are the reverse() method and string[::-1] :smiley:
 
 word = input(" I do reversals, enter something 😐️ : ")
 
